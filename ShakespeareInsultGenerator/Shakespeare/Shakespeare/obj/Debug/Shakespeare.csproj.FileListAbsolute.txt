@@ -1,0 +1,53 @@
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/bin/Debug/Shakespeare.exe.config
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/bin/Debug/Shakespeare.exe
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/bin/Debug/Shakespeare.pdb
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csprojAssemblyReference.cache
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Welcome.resources
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Properties.Resources.resources
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.GenerateResource.cache
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.CoreCompileInputs.cache
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.exe
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.pdb
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Generator.resources
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Facts.resources
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Dictionary.resources
+E:/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Instructions.resources
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csprojAssemblyReference.cache
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Dictionary.resources
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Facts.resources
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Generator.resources
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Instructions.resources
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Welcome.resources
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.GenerateResource.cache
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.exe
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.pdb
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/bin/Debug/Shakespeare.exe.config
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/bin/Debug/Shakespeare.exe
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/bin/Debug/Shakespeare.pdb
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Properties.Resources.resources
+C:/Users/sajid/Documents/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.CoreCompileInputs.cache
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.AssemblyReference.cache
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Dictionary.resources
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Facts.resources
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Generator.resources
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Instructions.resources
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Welcome.resources
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.GenerateResource.cache
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.exe
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.pdb
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Properties.Resources.resources
+/Volumes/SAJIDBASHAR/School/Grade 11/Computer Science/C# Projects/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.CoreCompileInputs.cache
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/bin/Debug/Shakespeare.exe.config
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/bin/Debug/Shakespeare.exe
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/bin/Debug/Shakespeare.pdb
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.AssemblyReference.cache
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Dictionary.resources
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Facts.resources
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Generator.resources
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Instructions.resources
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Welcome.resources
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.Properties.Resources.resources
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.GenerateResource.cache
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.csproj.CoreCompileInputs.cache
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.exe
+/Users/sajidbashar/Documents/Insult Generator/Shakespeare/Shakespeare/obj/Debug/Shakespeare.pdb
